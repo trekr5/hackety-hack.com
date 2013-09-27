@@ -11,6 +11,12 @@ If you have any experience writing Rails apps, feel free to help out, we're open
 + **Test your code**, we really can't stress this enough, ideally you should be practicing [TDD][tdd] and writing tests before you even write your code. If you don't test your code, we have no way of knowing if it works properly so please do test.
 + **If it's a major feature, file an issue**, if you file an issue we can discuss certain aspects of the new feature with you and ensure it's a good fit for hackety-hack.com.
 
+## Translations ##
+
+Hello everyone!
+
+We are in the process of translating Hackety Hack into as many foreign languages as possible so that people around the world would be able to use the site with ease. If you are bilingual and interested in helping us make Hackety Hack a truly global phenomenon, accessible by all regardless of location or nationality, and make learning Ruby even more fun! then please sign up here http://crowdin.net/project/hackety-hackcom/invite
+
 ## Getting Started ##
 
 Once you've cloned this repository, running `script/bootstrap` should tell you everything you need to know.
